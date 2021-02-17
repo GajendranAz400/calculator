@@ -9,8 +9,11 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
+[![Build Status](https://dev.azure.com/DevOpsTest30365/TestProject/_apis/build/status/GajendranAz400.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/DevOpsTest30365/TestProject/_build/latest?definitionId=3&branchName=refs%2Fpull%2F1%2Fmerge)
+
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+
 
